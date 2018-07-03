@@ -1,0 +1,23 @@
+[2018-04-30 11:10:33] layer "li.region": Unsupported extension: region
+[2018-04-30 11:10:33] layer "25 Aug  Canada  HEALTH CANADA APPROVES RADIOPAQUE BEAD FOR HCC,": Expected end of input but "," found.
+[2018-04-30 11:10:33] layer "li.region": Unsupported extension: region
+[2018-04-30 11:10:33] layer "li.search": Unsupported extension: search
+[2018-04-30 11:10:33] layer "li.search": Unsupported extension: search
+[2018-04-30 11:10:33] layer "a.on": Unsupported extension: on
+[2018-04-30 11:10:33] layer "div.container": Unsupported extension: container
+[2018-04-30 11:10:33] layer "div.top": Unsupported extension: top
+[2018-04-30 11:10:33] layer "div.main-menu.general.sticky": Unsupported extension: sticky
+[2018-04-30 11:10:33] layer "img.hidden-xs": Expected end of input but "-" found.
+[2018-04-30 11:10:33] layer "li.current": Unsupported extension: current
+[2018-04-30 11:10:33] layer "li.current": Unsupported extension: current
+[2018-04-30 11:10:33] layer "div.footer-1": Unsupported extension: footer
+[2018-04-30 11:10:33] layer "div.footer-1": Invalid quality: 10
+[2018-04-30 11:10:33] layer "ul.main-menu-items": Expected end of input but "-" found.
+[2018-04-30 11:10:33] layer "div.main-menu.general.sticky": Unsupported extension: sticky
+[2018-04-30 11:10:33] layer "ul.menu": Unsupported extension: menu
+[2018-04-30 11:10:33] layer "a.lnk-footerhome": Expected end of input but "-" found.
+[2018-04-30 11:10:33] layer "div.footer-2": Unsupported extension: footer
+[2018-04-30 11:10:33] layer "div.footer-2": Invalid quality: 20
+[2018-04-30 11:10:33] layer "div.col-md-10": Expected end of input but "-" found.
+[2018-04-30 11:10:33] layer "div.row": Unsupported extension: row
+[2018-04-30 11:10:33] layer "div.top": Unsupported extension: top
